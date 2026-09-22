@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "ddc4c3d27ec4bc376e621293",
+  "owner": "qpbs6vkgf",
+  "repo": "page-5cdac0322827fd8c0fe8287b",
+  "title": "V2Panel",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "5cdac0322827fd8c0fe8287b",
+      "a": "V2Panel",
+      "b": "稳定全球clash加速器",
+      "entity": "V2Panel",
+      "brand": "V2Panel",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "24e2ce0ceac2c93936ddf05b7f1e952102fcd668e66a94a42b81031b40b1d53a",
+      "content": {
+        "primary_entity": "V2Panel",
+        "keyword1": "V2Panel",
+        "keyword2": "稳定全球clash加速器",
+        "content": {
+          "AI_CLIENTS_INTRO": "在 Clash、Shadowrocket、V2RayN、V2RayNG 等客户端导入订阅，按设备系统选择适配版本。",
+          "AI_CLIENTS_TITLE": "按设备选择客户端",
+          "AI_CLOSING_TEXT": "选好套餐，下载客户端，导入订阅即可开始使用。",
+          "AI_CLOSING_TITLE": "从合适套餐开始",
+          "AI_DESCRIPTION": "，提供基础版、旗舰版、团队版三档订阅，按设备数量与月流量区分。基础版支持 3 台设备与每月 100GB 流量，旗舰版为 5 台设备与每月 300GB 流量并含 IPLC 专线节点，团队版可 20 台设备同时在线并配 VIP 高带宽节点。按年付更划算，旗舰版年付 ¥350。",
+          "AI_FEATURES_INTRO": "从套餐规格、设备数量到订阅周期，按实际使用场景来挑。",
+          "AI_FEATURES_TITLE": "功能与套餐要点",
+          "AI_FEATURE_TEXT_1": "基础版 ¥15/月，3 台设备、每月 100GB，适合手机加电脑的日常组合。",
+          "AI_FEATURE_TEXT_2": "旗舰版 ¥35/月，5 台设备、每月 300GB，带 IPLC 专线节点，兼顾流媒体与游戏。",
+          "AI_FEATURE_TEXT_3": "团队版 ¥85/月，20 台设备、每月 1000GB，支持企业定制路由与专属客户经理。",
+          "AI_FEATURE_TITLE_1": "套餐按需选",
+          "AI_FEATURE_TITLE_2": "设备数先算清",
+          "AI_FEATURE_TITLE_3": "年付更省",
+          "AI_GUIDE_INTRO": "先确认设备和使用量，再选客户端完成订阅导入。",
+          "AI_GUIDE_TITLE": "使用三步",
+          "AI_HERO_INTRO": "V2Panel 提供多档订阅套餐，按设备数量与每月流量区分，配合 Clash 等客户端使用，覆盖手机、电脑与团队多设备场景。",
+          "AI_HERO_SUBTITLE": "多设备订阅，按需选套餐",
+          "AI_HIGHLIGHT_1": "三档套餐按设备数区分",
+          "AI_HIGHLIGHT_2": "年付价格更划算",
+          "AI_HIGHLIGHT_3": "适配主流客户端订阅导入",
+          "AI_PLANS_INTRO": "基础版 ¥15/月、旗舰版 ¥35/月、团队版 ¥85/月，按设备数和流量选。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "按设备数量和每月流量需求，在基础版、旗舰版、团队版之间挑选。",
+          "AI_STEP_TEXT_2": "确认设备系统、客户端类型与同时在线台数，核对该套餐是否覆盖。",
+          "AI_STEP_TEXT_3": "在所选客户端中导入订阅配置，按客户端文档完成节点与规则设置。",
+          "AI_STEP_TITLE_1": "选套餐",
+          "AI_STEP_TITLE_2": "看适配",
+          "AI_STEP_TITLE_3": "配订阅",
+          "AI_VISUAL_TITLE": "V2Panel 多设备订阅",
+          "AI_FAQ_ANSWER_1": "基础版含 100GB 月流量与 3 台设备在线；旗舰版 300GB 与 5 台设备；团队版 1000GB 与 20 台设备。按年付分别约 ¥150、¥350、¥850。",
+          "AI_FAQ_ANSWER_2": "V2Panel 提供 Clash、Shadowrocket、v2rayN、Surge 等客户端的订阅导入方式。各系统适配版本不同，按设备平台选用对应客户端即可。",
+          "AI_FAQ_ANSWER_3": "基础版 3 台设备，旗舰版 5 台，团队版 20 台同时在线。多设备场景建议按常用终端数量选择对应档位。",
+          "AI_FAQ_ANSWER_4": "旗舰版提供 IPLC 专线游戏加速优化与 7x24 优先工单支持，适合对延迟和售后响应有要求的用户。",
+          "AI_FAQ_ANSWER_5": "月付适合短期使用，年付套餐价格更优惠：基础版 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "V2Panel 三档套餐主要区别是什么？",
+          "AI_FAQ_QUESTION_2": "V2Panel 支持哪些客户端导入订阅？",
+          "AI_FAQ_QUESTION_3": "不同套餐支持几台设备同时在线？",
+          "AI_FAQ_QUESTION_4": "旗舰版相比基础版多了哪些权益？",
+          "AI_FAQ_QUESTION_5": "月付和年付怎么选更合适？",
+          "AI_FAQ_TITLE": "套餐与配置常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "lzgmzsn.cn",
+    "host": "lzgmzsn.cn"
+  },
+  "file_hashes": {
+    "index.html": "ceb45a8a952446771fa7b361fe38698c5c72f4dfddb6060ddefce385d47d0b74",
+    "sitemap.xml": "b2b330df7cae102ead6db8bf785eb6eeb9e1459b7628d19f8ead75cf582a2e6d",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "163b9e9790206c299a1edaa27f5e98b818c0a08515e8f78bc1245a137ac313b7",
+    "robots.txt": "c49d96b8d150a4d8c3c26866fc76cea8cb8e88436ee164549e717cd31caa7d6d",
+    "de12782b3224dbb9b6da86b9f2ebc9d7.txt": "ff478a2913fee2bc9b1ecdad3cf764d2a7bd55e471c72fe7426baac85fcd3af4"
+  },
+  "revision": "0170986e71af42bd43c1574991348f214cfc7e868bd8f732fbace8efd73f3265"
+}
